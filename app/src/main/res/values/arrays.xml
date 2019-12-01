@@ -1,0 +1,12 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="mode_entries">
+        <item>Easy</item>
+        <item>Hard</item>
+    </string-array>
+
+    <string-array name="mode_values">
+        <item>easy</item>
+        <item>hard</item>
+    </string-array>
+</resources>
